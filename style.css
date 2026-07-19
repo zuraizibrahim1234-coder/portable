@@ -1,0 +1,42 @@
+img
+{
+    width:550px;
+}
+body
+{
+    text-align : left ;
+    font-family : garamond;
+    background:black;
+    color: red;
+}
+h1
+{
+    text-align : center ;
+}
+img
+{
+    position: relative;
+    left : 390px ;
+}
+p
+{
+    position: relative;
+    left : 420px ;
+    color: yellowgreen;
+    font-family : times new roman;
+}
+h3
+{
+    color: rgb(0, 255, 0);
+    font-family : comic sans ms;
+}
+#k1
+{
+    color: red;
+    font-family : times new roman;
+}
+#k2
+{
+    color: seagreen;
+    font-family : comic sans ms;
+}
